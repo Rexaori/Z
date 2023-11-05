@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "oskada",
+  "private_key_id": "5e644b491f0d447288ab4125a5cadbecca18c278",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCue+KDF7u032hz\nkpEDZflJLcRYNmxAJKNhVhlyLTEDFJ/EV4RI6TApIwdONkSgdC3lmfH3VE0guXPf\n25NmhJMlin1m4ZXSEJqxpfLK+MyxVrQNCczkGe9wLuF7Sm0JLQYIn3puMZVfHApz\n8p1R+fSr8cD13y6t6FH5ZWj2ieUxuiX4w09KOUkzEUv6AB12IjZdWpm3MoYdXgN4\nOG2PKiFLXYwpJHayYkDI4dtw0x2XUAaxlBq/FEBMfgk9do4Un5tJkN78GucGMDAN\n3z99i0Vs8E9TFX5Rz/OotJQkZW7DRM4hVmTrJe5z8lS6kRcuvHHmNATgOSUQHWVh\nbdTmqDUTAgMBAAECggEAAW6u61iUh+WVm+1GF3sM0tb3V6oKtXQXi0MDrnZEgrv2\nm8wEH/0aEhxhgPjdE1wgzFO5MsiUYYJkOyA4U40fEB3U7bVIX5MXUgIEvjnQpFwL\n2leMQQsddhRMcZCo2HxwIj386U6q5T77rvv84qFkqsyvQtV0MqVHlv6IIA39vazA\nBc/jusudP62rMV/cFDYh6VaYdCRlyMJosOp9zTTuQNjY8VJYX130kGwwnChTX+EJ\ngs4F+H6kddrMlheAzC1w9OzIU5BdSPW3nWZh6tyo3/k+HhUoByXyPYmBRf3mPTfv\npFvm2oTtP54UerOJftFqcQoRHrk2BQS8ClTOJa3XwQKBgQDzfVU1sTCYhI7hZklY\ntA1+xes9oSxDmMN+SVu8vQQFpxxqkYvaU1dc9ea3Rqq5DJCvbe4w9W867D1Xka1N\nwl3DJ75o3z+OSRuyNQEGUt/Lzgd6ZRtMt83C5f4yiR/lolBAsRidz3+P74AgeTUk\nB+csg2E6qSSwzTtjiWYiSBqxsQKBgQC3cugh1kDRYAkjqCZf2NIKo5DEa0Ua8ufe\nAoW/PVbmdCWh/M/0D+XOtR7QQI1+I8VXVuc1rM19DNubW82WH7R0++EXu3UdGtGZ\n3aCwfD00zIirYIYJfITcTrrBA2XIW+Aoa7M1TT3Ls2XJS9HdGB/alQUnGl9IYAae\nXNylEMIgAwKBgQCP4tifyf21o1/rws5FJOF0sPC6kqvdpkCgOCmF9wyRapdYQnoq\nomVWAdo9I/1vLQWzJXtEY0U/xKrbPLL06I8P7ESRJJwiMQG05a2dVwv5G98/bNAd\nHeDx84erxWyb/rb+A6lQWHZBUH6esgG9MQ5jN6AVUi7ka+NUhrVcPM/JgQKBgHeb\nAoA1OdOJAsxtsH9jVSa8mAGIUukMIGLeUCdsrcDZT0P7GfZtew63hhyPSfFJDzwv\nm9WiEeQLQw9a3oKXr0dqhcq8XNIaDzh7iG4owpsvE5hw+VMsDU+6QQbg2Ta1uEOC\nXLhO4RBzqdSBi5XUSchwyohBKIh+mzIbJ3yznW3TAoGBAKKHV9xvgMB4LeNieoIo\nkORv6VNTU2Wn1nlmRc4ypo3ZqKEZE4xCX674OfXaVcelnG4dwdwyUdoPSXePF9fk\n01tRIgmj5ovoKGdI5mGaG5SjPXMXi2AzrAykPkkbOZ/FpW5wU1euYzm3Oou5FKGT\n+gzzgMYzQPTCMOUs1DZmzBmJ\n-----END PRIVATE KEY-----\n",
+  "client_email": "oskada@oskada.iam.gserviceaccount.com",
+  "client_id": "100369882658889512735",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/oskada%40oskada.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
